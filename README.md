@@ -20,6 +20,7 @@ I used JS to  bring the application to life. See below for the steps I took to m
 ![Screenshot of password generator.](./assets/Images/screenshot.png)
 
 ## Deployed Link 
+https://haleywitherell.github.io/Password-Generator/
 
 
 
