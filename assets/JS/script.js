@@ -50,7 +50,7 @@ function generatePassword(){
   return finalPass
 }
 
-// Write password to the #password input (write my code here)
+// Write password to the #password input 
 function writePassword() {
   var password = generatePassword();
   var passwordText = document.querySelector("#password");
